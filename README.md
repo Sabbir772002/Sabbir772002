@@ -1,4 +1,4 @@
-### <h2>"Hey Priyo, please take a look below."
+### <h2>Hey Priyo, please take a look below.</h2>
 
  ### Brief Details:</br>
 <!--  🔭 I’m currently more into the **Programming**--->
