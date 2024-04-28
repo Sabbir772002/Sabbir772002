@@ -1,4 +1,6 @@
 ### <h2>Hey Priyo, I'm Sabbir!
+ ### Part time Cs student, full time philosopher!</br>
+
  ### Here are some ideas to get you started:</br>
 - 🔭 I’m currently more into the **Programming**
 - 🌱 I’m currently learning **Open Source Contribution.**
