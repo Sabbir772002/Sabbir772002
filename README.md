@@ -1,7 +1,6 @@
 ### <h2>Hey Priyo, I'm Sabbir!
  #### Part time student, full time Philosopher!</br>
 </br>
-</br>
 
  ### Brief Details:</br>
 <!--  🔭 I’m currently more into the **Programming**--->
