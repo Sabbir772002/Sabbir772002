@@ -1,4 +1,4 @@
-### <h2>Hey Priyo, I'm {You alredy knows}!
+### <h2>Hey Priyo, I'm {You already knows}!
  #### Part time student, full time Philosopher!</br>
 
  ### Brief Details:</br>
