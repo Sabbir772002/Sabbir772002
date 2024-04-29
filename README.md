@@ -7,7 +7,7 @@
 - 💬 Ask me about **Technology, History, Religion, Troubleshooting, Psychology, Neuroscience, Nature and Everything Interesting!**
 - ⚡ Fun fact: I know, Jokes were bad!
   
-### I'm enthusiastic about discovering-</br>
+### I'm enthusiastic about discovering:</br>
 - 💻NLP,DL,Blockchain,System Design,Algorithm and mostly Problem....
 - 🌐Economics,Psychology and Everything that are interested.</br>
 
