@@ -4,8 +4,7 @@
 <!--  🔭 I’m currently more into the **Programming**--->
 <!-- 🌱 I’m currently learning **Open Source Contribution.**--->
 - 🤔 Talk me about problem!
-- 💬 Ask me about **Technology, History, Religion, Troubleshooting, Psychology, Neuroscience, Nature and So on!**
-- ⚡ Fun fact: I know, Jokes were bad!
+- 💬 Ask me about **Technology, History, Troubleshooting, Psychology, Neuroscience, Nature and So on!**
   
 ### I'm enthusiastic about discovering:</br>
 - 💻NLP,DL,Blockchain,System Design,Algorithm and mostly Problem....
