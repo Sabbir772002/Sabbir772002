@@ -17,7 +17,7 @@ C++, Python, Java, SQL, Git, VS Code, Django
 ### ⚡ Proficient In
 **Backend & APIs:** REST API, Node.js, Flask, JavaFX, Kafka, Microservices, PHP   
 **Databases:** PostgreSQL, MongoDB, MySQL  
-**Frontend:** React, JavaScript 
+**Frontend:** React, JavaScript                
 **Machine Learning & AI:** PyTorch, Scikit-learn, OpenCV, YOLO, Hugging Face, RAG  
 **Other Tools & Skills:** Linux, WebSockets, Agile, Pandas, System Design  
 
