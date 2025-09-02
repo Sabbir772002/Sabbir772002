@@ -15,7 +15,7 @@ I'm passionate about **problem-solving** and exploring innovative solutions. I l
 C++, Python, Java, SQL, Git, VS Code, Django
 
 ### ⚡ Proficient In
-**Backend & APIs:** REST API, Node.js, Flask, JavaFX, Kafka, Microservices, PHP 
+**Backend & APIs:** REST API, Node.js, Flask, JavaFX, Kafka, Microservices, PHP   
 **Databases:** PostgreSQL, MongoDB, MySQL  
 **Frontend:** React, JavaScript
 **Machine Learning & AI:** PyTorch, Scikit-learn, OpenCV, YOLO, Hugging Face, RAG  
