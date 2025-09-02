@@ -10,17 +10,20 @@ I'm passionate about **problem-solving** and exploring innovative solutions. I l
 ### 💻 My Interests
 - **Programming & AI:** Problem Solving, NLP, Deep Learning, Blockchain, System Design, Algorithms  
 - **Interdisciplinary:** Economics, Psychology, and intellectually stimulating topics
-
+<!--
+<!-- This section lists my main programming strengths -->
 ### 🛠 Strengths
 C++, Python, Java, SQL, Git, VS Code, Django
 
-### ⚡ Proficient In
-**Backend & APIs:** REST API, Node.js, Flask, JavaFX, Kafka, Microservices, PHP   
-**Databases:** PostgreSQL, MongoDB, MySQL  
-**Frontend:** React, JavaScript                
-**Machine Learning & AI:** PyTorch, Scikit-learn, OpenCV, YOLO, Hugging Face, RAG  
-**Other Tools & Skills:** Linux, WebSockets, Agile, Pandas, System Design  
+<!-- Proficient technologies and tools -->
 
+### ⚡ Proficient In
+**Backend & APIs:** REST API, Node.js, Flask, JavaFX, Kafka, Microservices, PHP  
+**Databases:** PostgreSQL, MongoDB, MySQL  
+**Frontend:** React, JavaScript  
+**Machine Learning & AI:** PyTorch, Scikit-learn, OpenCV, YOLO, Hugging Face, RAG  
+**Other Tools & Skills:** Linux, WebSockets, Agile, Pandas, System Design
+-->
 ### 🛠 Strengths
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
