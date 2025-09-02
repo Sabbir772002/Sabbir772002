@@ -1,7 +1,17 @@
 # Hi there 👋, I'm Sabbir Hossain
 
+### 💼 Role
+**🏆 Competitive Programmer | 🎓 BSc CSE Student | 🔬 Researcher**
+
 ### 💬 About Me
 I'm passionate about **problem-solving** and exploring innovative solutions. I love discussing **Technology, History, Psychology, Neuroscience, Nature**, and more.
+
+### 🏆 Competitive Programming
+- **Solved over 2500+ algorithmic problems** on various online judges, including Codeforces, CodeChef, AtCoder, UVA, LightOJ, etc.
+- **Codeforces:** Max Rating **1578** (Specialist, Top 4% in BD), Solved **1800+ problems)  
+  - Handle: [pagol](https://codeforces.com/profile/pagol)
+- **CodeChef:** Max Rating **1854** (4-Star, Top 4% in BD), Solved **100+ problems**  
+  - Handle: [sabbir772](https://www.codechef.com/users/sabbir772)
 
 ### 🌱 I’m currently learning
 - **Open Source Contribution**  
@@ -10,17 +20,7 @@ I'm passionate about **problem-solving** and exploring innovative solutions. I l
 ### 💻 My Interests
 - **Programming & AI:** Problem Solving, NLP, Deep Learning, Blockchain, System Design, Algorithms  
 - **Interdisciplinary:** Economics, Psychology, and intellectually stimulating topics
-<!--
-### 🛠 Strengths
-C++, Python, Java, SQL, Git, VS Code, Django
 
-### ⚡ Proficient In
-**Backend & APIs:** REST API, Node.js, Flask, JavaFX, Kafka, Microservices, PHP  
-**Databases:** PostgreSQL, MongoDB, MySQL  
-**Frontend:** React, JavaScript  
-**Machine Learning & AI:** PyTorch, Scikit-learn, OpenCV, YOLO, Hugging Face, RAG  
-**Other Tools & Skills:** Linux, WebSockets, Agile, Pandas, System Design
--->
 ### 🛠 Strengths
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -65,8 +65,6 @@ C++, Python, Java, SQL, Git, VS Code, Django
 ![System Design](https://img.shields.io/badge/System%20Design-00CFFF?style=for-the-badge)
 
 ### 📫 How to reach me
-- [Facebook](https://www.linkedin.com/772sabbir)  
 - [GitHub](https://github.com/Sabbir772002)  
-- [Linkedin](https://www.linkedin.com/in/772sabbir)  
-
----
+- [LinkedIn](https://www.linkedin.com/in/772sabbir)  
+- [Facebook](https://www.facebook.com/772sabbir)
