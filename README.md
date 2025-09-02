@@ -11,11 +11,8 @@ I'm passionate about **problem-solving** and exploring innovative solutions. I l
 - **Programming & AI:** Problem Solving, NLP, Deep Learning, Blockchain, System Design, Algorithms  
 - **Interdisciplinary:** Economics, Psychology, and intellectually stimulating topics
 <!--
-<!-- This section lists my main programming strengths -->
 ### 🛠 Strengths
 C++, Python, Java, SQL, Git, VS Code, Django
-
-<!-- Proficient technologies and tools -->
 
 ### ⚡ Proficient In
 **Backend & APIs:** REST API, Node.js, Flask, JavaFX, Kafka, Microservices, PHP  
