@@ -8,9 +8,9 @@ I'm passionate about **problem-solving** and exploring innovative solutions. I l
 
 ### 🏆 Competitive Programming
 - **Solved over 2500+ algorithmic problems** on various online judges, including Codeforces, CodeChef, AtCoder, UVA, LightOJ, etc.
-- **Codeforces:** Max Rating **1578** (Specialist, Top 4% in BD), Solved **1800+ problems**  
+- **Codeforces:** Max Rating **1578** (Specialist), Solved **1800+ problems**  
   - Handle: [pagol](https://codeforces.com/profile/pagol)
-- **CodeChef:** Max Rating **1854** (4-Star, Top 4% in BD), Solved **100+ problems**  
+- **CodeChef:** Max Rating **1854** (4-Star), Solved **100+ problems**  
   - Handle: [sabbir772](https://www.codechef.com/users/sabbir772)
 
 ### 🌱 I’m currently learning
