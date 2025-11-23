@@ -5,7 +5,7 @@
 
 ### 💬 About Me
 I'm passionate about **problem-solving** and exploring innovative solutions. I love discussing **Technology, History, Psychology, Neuroscience, Nature**, and more.
-
+<!--
 ### 🏆 Competitive Programming
 - **Solved over 2500+ algorithmic problems** on various online judges, including Codeforces, CodeChef, AtCoder, UVA, LightOJ, etc.
 - **Codeforces:** Max Rating **1578** (Specialist), Solved **1800+ problems**  
@@ -67,4 +67,4 @@ I'm passionate about **problem-solving** and exploring innovative solutions. I l
 ### 📫 How to reach me
 - [GitHub](https://github.com/Sabbir772002)  
 - [LinkedIn](https://www.linkedin.com/in/772sabbir)  
-- [Facebook](https://www.facebook.com/772sabbir)
+- [Facebook](https://www.facebook.com/772sabbir)-->
